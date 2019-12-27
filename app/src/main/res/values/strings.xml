@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InternalStorage</string>
+    <string name="internal_storage_description">When storing sensitive data—data that shouldn\'t be accessible from any other app—use internal storage, preferences, or a database. Internal storage has the added benefit of the data being hidden from users.
+    \n Internal storage has limited space for app-specific data. Use other types of storage if you need to save a substantial amount of data.\nRef: https://developer.android.com/training/data-storage</string>
+    <string name="name">User Name</string>
+    <string name="lucky_random">Lucky Spin</string>
+
+</resources>
